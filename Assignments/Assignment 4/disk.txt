@@ -1,0 +1,40 @@
+1,OS,1,12
+2,disk,1,11
+3,my,2,0
+4,q1,2,10
+5,q2,2,13
+6,file,1,17
+7,a1,2,16
+8,a2,2,15
+9,a3,2,14
+10,Ubuntu is Linux-based operating system.,4,0
+11,q1 q2,3,0
+12,a1 a2 a3 disk,3,0
+13,I am in q2 file,4,0
+14,I am the content of a3 and I have the rem.,4,24
+15,OpenOffice can read and write documents,4,0
+16,Show me Your license.,4,0
+17,Hammad$18 Fakhar$19 Salman$20,3,0
+18,Fakhar,2,21
+19,Salman,2,22
+20,Hammad,2,23
+21,I am gonna do this assignment today.,4,0
+22,Lets have fun tonight.,4,0
+23,Hammad; you cannot change the fate,4,0
+24,aning content on another block.,4,0
+25,content is here and I want to further exp,4,26
+26,and my space to here,5,0
+27,sample,1,28
+28,b1 b2 b3 b4 b5 b6 b7 b8 b9 c1 c2 c3 c4 c5,3,29
+29,c6 c7 c8,3,0
+30,$
+31,$
+32,$
+33,$
+34,$
+35,$
+36,$
+37,$
+38,$
+39,$
+40,$
